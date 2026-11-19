@@ -1,13 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  Header animado                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Florentino%20Valcárcel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20en%20formaci%C3%B3n&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Florentino%20Valcárcel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20en%20formaci%C3%B3n%20🚀&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
 <!-- Efecto máquina de escribir -->
 <a href="https://github.com/florenvr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PHP+%2B+MySQL+%2B+Docker+%3D+%E2%9D%A4%EF%B8%8F;Construyendo+cosas+útiles+y+bien+hechas;Siempre+aprendiendo+algo+nuevo;Código+limpio%2C+commits+con+sentido" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PHP+%2B+MySQL+%2B+Docker;Construyendo+cosas+%C3%BAtiles+y+bien+hechas;Siempre+aprendiendo+algo+nuevo;C%C3%B3digo+limpio%2C+commits+con+sentido" alt="Typing SVG" />
 </a>
 
 </div>
