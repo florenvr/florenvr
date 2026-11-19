@@ -43,7 +43,6 @@ class Florentino extends Desarrollador
 
 - 🔭 Ahora mismo: una **plataforma de trueque de servicios** con PHP, Twig, MySQL y Docker
 - 🌱 Profundizando en: **MVC, APIs REST y patrones de diseño**
-- 🐳 Me gusta que todo arranque con un `docker compose up` y nada más
 - ⚡ Dato curioso: mis commits tienen mensajes tan descriptivos que dan vergüenza ajena 😌
 
 ---
