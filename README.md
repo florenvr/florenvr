@@ -62,20 +62,15 @@ class Florentino extends Desarrollador
 
 ---
 
-## 📊 Mis estadísticas
+## 📊 Mi actividad
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=florenvr&show_icons=true&theme=tokyonight&hide_border=true&locale=es&count_private=true&rank_icon=github" alt="Estadísticas de GitHub" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=florenvr&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" />
+<img src="https://streak-stats.demolab.com?user=florenvr&theme=tokyonight&hide_border=true&locale=es&dates=1a1b27" alt="Racha de contribuciones" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=florenvr&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" />
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=florenvr&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=florenvr&theme=tokyo-night&hide_border=true&hide_title=true&area=true" alt="Gráfico de actividad" />
 
 </div>
 
