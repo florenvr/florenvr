@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--  Header animado                                             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Florentino%20Valcárcel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20en%20formación%20🚀&descAlignY=55&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Florentino%20Valcárcel&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20en%20formaci%C3%B3n&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
