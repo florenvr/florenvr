@@ -7,7 +7,7 @@
 
 <!-- Efecto máquina de escribir -->
 <a href="https://github.com/florenvr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PHP+%2B+MySQL+%2B+Docker;Construyendo+cosas+%C3%BAtiles+y+bien+hechas;Siempre+aprendiendo+algo+nuevo;C%C3%B3digo+limpio%2C+commits+con+sentido" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PHP+%2B+MySQL+%2B+JS+%2B+Docker;Construyendo+cosas+%C3%BAtiles+y+bien+hechas;Siempre+aprendiendo+algo+nuevo;C%C3%B3digo+limpio%2C+commits+con+sentido" alt="Typing SVG" />
 </a>
 
 </div>
